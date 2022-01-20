@@ -1,5 +1,3 @@
-
-=======
 # Ichi Woken
 
 Hey, I'm Ichi Woken 
