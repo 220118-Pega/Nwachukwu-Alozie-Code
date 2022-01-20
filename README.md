@@ -1,6 +1,4 @@
-<<<<<<< Updated upstream
-# Nwachukwu-Alozie-Code
-Repository used for training 
+
 =======
 # Ichi Woken
 
@@ -18,5 +16,3 @@ visit my page for more.
 
 https://purewaterlabel.net/
 
-
->>>>>>> Stashed changes
