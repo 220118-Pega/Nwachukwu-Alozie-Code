@@ -2,9 +2,9 @@
 
 Hey, I'm Ichi Woken 
 
-CEO of Pure Water Records 
-Gamer
-Software Developer
+CEO of Pure Water Records | 
+Gamer |
+Software Developer |
 Producer 
 
 I am versatile producer of all things media formatted. 
